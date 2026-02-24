@@ -1,5 +1,5 @@
 # read input 
-num = float(input())
+num = int(input())
 #check condition
 if num > 0:
     print("Positive")
